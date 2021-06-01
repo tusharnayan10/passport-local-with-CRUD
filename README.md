@@ -17,10 +17,14 @@ http://localhost:3000/articles
 
 ## FOR TESTING Authentication OPERATION
 
-http://localhost:3000/
+http://localhost:3000/ 
+<br>
 http://localhost:3000/login
+<br>
 http://localhost:3000/register
+<br>
 http://localhost:3000/articles
+<br>
 
 <hr>
 
